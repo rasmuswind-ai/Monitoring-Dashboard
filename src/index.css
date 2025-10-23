@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply dark:bg-primary text-white;
+}
+
+.MuiChartsAxis-root line.MuiChartsAxis-axisLine {
+  stroke: white !important;
+  stroke-width: 2 !important;
+}
+
+.MuiChartsAxis-root line.MuiChartsAxis-tickLine {
+  stroke: white !important;
+  stroke-width: 1 !important;
+}
+
+.MuiChartsAxis-root line.MuiChartsAxis-grid {
+  stroke: rgba(255, 255, 255, 0.2) !important;
+}
