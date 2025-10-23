@@ -1,6 +1,6 @@
 The following IIS Docker Hosts has more containers running than the recommended amount of 100!
 
-Host: web18.curanet.dk -> Containers running: 83
-Host: web17.curanet.dk -> Containers running: 95
-Host: web16.curanet.dk -> Containers running: 87
-Host: web19.curanet.dk -> Containers running: 84
+Host: web1.domain.dk -> Containers running: 83
+Host: web2.domain.dk -> Containers running: 95
+Host: web3.domain.dk -> Containers running: 87
+Host: web4.domain.dk -> Containers running: 84
